@@ -11,7 +11,5 @@ void printMsg()
 
 int main()
 {
-
     printMsg();
-
 }
